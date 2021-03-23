@@ -5,7 +5,7 @@ Quick tool for search in [Mozilla Developer Network](http://developer.mozilla.or
 
 ## Install
 ```bash
-npm install -g mdn-search
+npm install -g git+https://github.com/Klyyssi/mdn-search.git
 ```
 ## Usage
 ```bash
